@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go(Gin) Haskell C++**
 
-- 📫 How to reach me **skshamahluwalia@gmail.com**
+- 📫 How to reach me **sksham.ahluwalia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

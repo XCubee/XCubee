@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcubee&label=Profile%20views&color=0e75b6&style=flat" alt="xcubee" /> </p>
 
-- 🔭 I’m currently working on **AI-First Compliance Automation Engine**
+-  I’m currently working on **AI-First Compliance Automation Engine**
 
-- 🌱 I’m currently learning **Pytorch and**
+-  I’m currently learning **Pytorch and**
 
-- 👯 I’m looking to collaborate on **Backend and AI based projects**
+-  I’m looking to collaborate on **Backend and AI based projects**
 
-- 📫 How to reach me **saksham.ahluwalia@gmail.com**
+-  How to reach me **sksham.ahluwalia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

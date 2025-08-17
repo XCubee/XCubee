@@ -1,14 +1,9 @@
-<h1 align="center">Hello there I am SAKSHAM AHLUWALIA</h1>
-<h3 align="center">AI-Focused Backend Engineer</h3>
+<h1 align="center">Hello there I am Saksham Ahluwalia </h1>
+<h3 align="center"> An AI-Focused Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcubee&label=Profile%20views&color=0e75b6&style=flat" alt="xcubee" /> </p>
 
--  I’m currently working on **AI-First Compliance Automation Engine**
-
--  I’m currently learning **Pytorch and**
-
--  I’m looking to collaborate on **Backend and AI based projects**
-
+-  I’m currently working on **Opaqe**
 -  How to reach me **sksham.ahluwalia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

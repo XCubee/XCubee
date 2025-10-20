@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcubee&label=Profile%20views&color=0e75b6&style=flat" alt="xcubee" /> </p>
 
--  I’m currently working on **Opaqé** ---> **https://opaqe.netlify.app/**
+
 -  How to reach me **sksham.ahluwalia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

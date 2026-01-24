@@ -20,6 +20,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcubee&show_icons=true&locale=en&layout=compact" alt="xcubee" /></p>
 
+<p align="left">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1C8-jRTiaZnAd6qE0MUUfyItauQIUYuOP"
+    alt="Project Image"
+    width="600"
+  />
+</p>
 
 
 

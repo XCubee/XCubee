@@ -14,7 +14,7 @@
 
 <h3 align="left" >Languages and Tools: </h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,cpp,typesc,py,fastapi,go,java,graphql,mysql,postgres,pytorch,redis,git,aws" />
+  <img src="https://skillicons.dev/icons?i=bash,cpp,ts,py,fastapi,go,java,graphql,mysql,postgres,pytorch,redis,git,aws" />
 </p>
 
 

@@ -18,13 +18,6 @@
 </p>
 
 
-<p align="left">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=1C8-jRTiaZnAd6qE0MUUfyItauQIUYuOP"
-    alt="Project Image"
-    width="300"
-  />
-</p>
 
 
 
